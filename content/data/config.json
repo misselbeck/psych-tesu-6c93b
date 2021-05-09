@@ -2,6 +2,7 @@
     "title": "Rachel's Degree",
     "path_prefix": "/",
     "palette": "blue",
+    "favicon": "images/favicon-32x32.png",
     "header": {
         "title": "Check",
         "logo_img": "images/logo.svg",
