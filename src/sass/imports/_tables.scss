@@ -60,4 +60,8 @@ th {
   &:first-child {
     margin-top: 0;
   }
+
+  tr.done {
+    background-color: #F1FAEA;
+  }
 }

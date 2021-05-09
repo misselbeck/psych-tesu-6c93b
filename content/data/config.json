@@ -1,11 +1,11 @@
 {
-    "title": "Stackbit Libris Theme",
+    "title": "Rachel's Degree",
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "Libris",
+        "title": "Check",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Libris logo",
+        "logo_img_alt": "Check logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -15,52 +15,28 @@
                 "has_subnav": false
             },
             {
-                "label": "Docs",
-                "url": "/docs",
-                "style": "link",
-                "has_subnav": false
+              "label": "Plan",
+              "url": "/docs",
+              "style": "link",
+              "has_subnav": false
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
+              "label": "Gen Ed Courses",
+              "url": "/courses",
+              "style": "link",
+              "has_subnav": false
             },
             {
-                "label": "Sample Pages",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "primary",
-                "has_subnav": false
+              "label": "Psych Courses",
+              "url": "/courses-psych",
+              "style": "link",
+              "has_subnav": false
             }
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=libris&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
-        "has_social": true,
+        "content": "&copy; Misselbeck.  &nbsp;&nbsp;Coded with &hearts;",
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",

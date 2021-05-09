@@ -3,129 +3,43 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Rachel's Degree
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      This is a <strong>custom roadmap</strong> that applies to Thomas Edison State University to earn a <a target="_blank" href="https://www.tesu.edu/heavin/ba/psychology">Bachelor of Arts in Psychology</a>.
+  - section_id: text-img
+    type: section_content
+    image: images/focus.svg
+    image_position: left
+    title: Plan of Action
+    content: >-
+      A step-by-step guide to get started. This section includes an overview, links to resources, and other tips and tricks to earn your degree in the _**fastest**_ amount of time.
     actions:
       - label: Get Started
         url: /docs
         style: primary
-  - section_id: features
-    type: section_grid
-    col_number: three
-    grid_items:
-      - title: Documentation
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Get Started
-            url: /docs
-            style: link
-      - title: Blog
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        actions:
-          - label: View Posts
-            url: /blog
-            style: link
-      - title: Style Guide
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-  - section_id: text-img
-    type: section_content
-    image: images/jamstack.svg
-    image_position: left
-    title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
-      - label: Get Started
-        url: /docs/getting-started
+      - label: Not Now
+        url: http://www.netflix.com
         style: secondary
   - section_id: text-no-img
     type: section_content
-    title: A Section Without Image
+    title: The Courses
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      A master list of all the courses you'll need broken down by requirements. Includes direct links to the resource, credits earned, and TESU equavalencies (when applicable). Knock these out one-by-one and start sizing the graduation gown.
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
-  - section_id: features-two-col
-    type: section_grid
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
-    col_number: two
-    grid_items:
-      - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        actions:
-          - label: Learn More
-            url: /overview
-            style: link
-      - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /showcase
-            style: link
-  - section_id: cta
-    type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
-seo:
-  title: Stackbit Libris Theme
-  description: The preview of the Libris theme
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Stackbit Libris Theme
-      keyName: property
-    - name: 'og:description'
-      value: The preview of the Libris theme
-      keyName: property
-    - name: 'og:image'
-      value: images/4.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Libris Theme
-    - name: 'twitter:description'
-      value: The preview of the Libris theme
-    - name: 'twitter:image'
-      value: images/4.jpg
-      relativeUrl: true
+      - label: Gen Ed Requirements
+        url: /courses
+        style: secondary
+      - label: Psych Requirements
+        url: /courses-psych
+        style: secondary
+  #- section_id: cta
+  #  type: section_cta
+  #  title: Stay motivated
+  #  subtitle: It will feel like a slog at times. Stay strong with inspiring quotes to keep you going.
+  #  actions:
+  #    - label: Inspire Me
+  #      url: /docs/getting-started/installation
+  #      style: primary
 layout: advanced
 ---

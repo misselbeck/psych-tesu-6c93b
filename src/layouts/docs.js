@@ -38,12 +38,12 @@ export default class Docs extends React.Component {
                     </div>
                   </div>
                 </article>
-                <nav id="page-nav" className="page-nav">
+                {/* <nav id="page-nav" className="page-nav">
                   <div id="page-nav-inside" className="page-nav-inside sticky">
                     <h2 className="page-nav-title">Jump to Section</h2>
                     <div id="page-nav-link-container" />
                   </div>
-                </nav>
+                </nav> */}
               </div>
             </div>
             </Layout>
