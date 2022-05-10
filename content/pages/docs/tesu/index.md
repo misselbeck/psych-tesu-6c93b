@@ -11,7 +11,7 @@ Thomas Edison State University is a unique college in that it offers a very gene
 This section describes the best strategy for enrollment.
 
 <br>
-<img src="/images/tesu.jpeg" alt="Thomas Edison State University Seal" width="240"/>
+<img src="/images/umpi-logo-color.svg" alt="University of Maine at Presque Isle" width="240"/>
 <br>
 
 ***

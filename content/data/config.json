@@ -28,8 +28,8 @@
               "has_subnav": false
             },
             {
-              "label": "Psych Courses",
-              "url": "/courses-psych",
+              "label": "Business Courses",
+              "url": "/courses-pm",
               "style": "link",
               "has_subnav": false
             }

@@ -3,10 +3,10 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Rachel's Degree
+    title: Project Management Degree
     image: images/5.jpg
     content: >-
-      This is a <strong>custom roadmap</strong> that applies to Thomas Edison State University to earn a <a target="_blank" href="https://www.tesu.edu/heavin/ba/psychology">Bachelor of Arts in Psychology</a>.
+      This is a <strong>custom roadmap</strong> that applies to the University of Maine to earn a<br> <a target="_blank" href="https://www.tesu.edu/heavin/ba/psychology">BA Business Administration - PM Concentration</a>.
   - section_id: text-img
     type: section_content
     image: images/focus.svg
@@ -25,12 +25,12 @@ sections:
     type: section_content
     title: The Courses
     content: >-
-      A master list of all the courses you'll need broken down by requirements. Includes direct links to the resource, credits earned, and TESU equavalencies (when applicable). Knock these out one-by-one and start sizing the graduation gown.
+      A master list of all the courses you'll need broken down by requirements. Includes direct links to the resource, credits earned, and UMPI equivalencies (when applicable). Knock these out one-by-one and start sizing the graduation gown.
     actions:
       - label: Gen Ed Requirements
         url: /courses
         style: secondary
-      - label: Psych Requirements
+      - label: Business Requirements
         url: /courses-psych
         style: secondary
   #- section_id: cta

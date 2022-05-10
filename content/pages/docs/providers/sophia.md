@@ -48,8 +48,6 @@ For the most part, the order of Sophia courses does not matter. For instance, it
 
 + There is some overlap of basic concepts between Ethics, Introduction to Psychology, and Introduction to Sociology. The order doesn't matter, so long as Ancient Greek Philosophers comes before Ethics.
 
-+ College Readiness is not required because TESU does not grant credit for this course.
-
 <hr>
 
 ## Course Structure
@@ -62,6 +60,6 @@ In order to get credit for a given course, you must have an overall grade of 70%
 
 ## Resources
 
-+ <a target="_blank" href="https://degreeforum.miraheze.org/wiki/Sophia.org_Equivalency_List">Sophia.org TESU Equivalency List</a>
++ <a target="_blank" href="https://degreeforum.miraheze.org/wiki/UMPI_Sophia_Transfer_Equivalents">UMPI Sophia Transfer Equivalents</a>
 
 

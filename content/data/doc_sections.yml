@@ -2,6 +2,3 @@ root_docs_path: /docs
 sections:
   - providers
   - credly
-  - tesu
-  - requirements
-  - capstone

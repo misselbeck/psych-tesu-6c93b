@@ -1,9 +1,9 @@
 ---
-title: Psych Courses
+title: Business Courses
 subtitle: Requirements for completing the area of study course work.
 image: images/5.jpg
 seo:
-  title: Psych Courses
+  title: Business Courses
   description: Requirements for completing the area of study course work.
 layout: page
 ---

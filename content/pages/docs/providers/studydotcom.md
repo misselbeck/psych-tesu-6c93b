@@ -53,6 +53,6 @@ There is some overlap between different SDC courses on the same subject. So, as 
 
 ## Resources
 
-+ <a target="_blank" href="https://study.com/college/school/thomas-edison-state-university.html">Study.com TESU Equivalency List</a>
++ <a target="_blank" href="https://study.com/college/school/umpi.html">Study.com UMPI Equivalency List</a>
 
 
