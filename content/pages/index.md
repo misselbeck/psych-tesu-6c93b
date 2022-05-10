@@ -19,7 +19,7 @@ sections:
         url: /docs
         style: primary
       - label: Not Now
-        url: http://www.netflix.com
+        url: https://www.apartmenttherapy.com/
         style: secondary
   - section_id: text-no-img
     type: section_content
