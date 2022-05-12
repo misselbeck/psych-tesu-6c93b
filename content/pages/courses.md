@@ -123,11 +123,11 @@ Some key things to keep in mind:
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr class="done">
         <td>PHI 152 Intro to Ethics</td>
         <td><a href="https://www.sophia.org/online-courses/humanities/introduction-to-ethics-2">Intro to Ethics</a></td>
         <td>Sophia.org</td>
-        <td></td>
+        <td><span class="check">&#10003;</span></td>
       </tr>
     </tbody>
   </table>
@@ -145,11 +145,11 @@ Some key things to keep in mind:
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr class="done">
         <td>PHI 152 Intro to Ethics</td>
         <td><a href="https://www.sophia.org/online-courses/humanities/introduction-to-ethics-2">Intro to Ethics</a></td>
         <td>Sophia.org</td>
-        <td></td>
+        <td><span class="check">&#10003;</span></td>
       </tr>
     </tbody>
   </table>
@@ -391,11 +391,11 @@ Some key things to keep in mind:
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr class="done">
         <td>PHI 152 Intro to Ethics</td>
         <td><a href="https://www.sophia.org/online-courses/humanities/introduction-to-ethics-2">Intro to Ethics</a></td>
         <td>Sophia.org</td>
-        <td></td>
+        <td><span class="check">&#10003;</span></td>
       </tr>
     </tbody>
   </table>

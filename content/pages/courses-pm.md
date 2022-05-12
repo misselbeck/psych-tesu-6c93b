@@ -22,11 +22,11 @@ layout: page
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr class="done">
         <td>BUS 101: Introduction to Business</td>
         <td><a href="https://www.sophia.org/online-courses/business/introduction-to-business-2">Introduction to Business</a></td>
         <td>Sophia.org</td>
-        <td></td>
+        <td><span class="check">&#10003;</span></td>
       </tr>
       <tr>
         <td>BUS 150: Introduction to Financial Accounting</td>
